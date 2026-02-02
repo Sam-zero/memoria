@@ -1,0 +1,19 @@
+{
+  "name": "Memoria - Memory Tracker",
+  "short_name": "Memoria",
+  "description": "Capture and organize your precious moments",
+  "theme_color": "#10b981",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
