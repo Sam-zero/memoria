@@ -1,7 +1,5 @@
 # Memoria - Personal Memory & Moments Tracker
 
-<img src="frontend/public/logo.png" alt="Memoria Logo" width="120" />
-
 A full-stack web application for capturing, organizing, and analyzing personal memories and moments with rich media support and analytics.
 
 ## Team
